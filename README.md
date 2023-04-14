@@ -74,4 +74,16 @@ Link: [Arxiv](https://arxiv.org/abs/2304.06718) [PDF](https://arxiv.org/pdf/2304
 
 ### 2.1. Grounded SAM
 
+Importance: ⭐⭐⭐⭐
+
+Domain: Chat GPT + SAM
+
+Link: [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+
 ## 3. Implementation
+
+### 3.1. LoRA for SAM (meta's segment-anything)
+
+Importance: ⭐⭐
+
+Link: [Code](https://github.com/JamesQFreeman/Sam_LoRA)
