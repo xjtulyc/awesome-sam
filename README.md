@@ -105,3 +105,9 @@ Link: [Code](https://github.com/kadirnar/segment-anything-video)
 Importance: ⭐⭐⭐
 
 Link: [Code](https://github.com/sail-sg/EditAnythin)
+
+### 3.5. Semantic Segment Anything
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/fudan-zvg/Semantic-Segment-Anything)
