@@ -111,3 +111,15 @@ Link: [Code](https://github.com/sail-sg/EditAnythin)
 Importance: ⭐⭐⭐
 
 Link: [Code](https://github.com/fudan-zvg/Semantic-Segment-Anything)
+
+### 3.6. Segment Anything for Stable Diffusion WebUI
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/continue-revolution/sd-webui-segment-anything)
+
+### 3.7. Segment Anything EO tools
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/aliaksandr960/segment-anything-eo)
