@@ -99,3 +99,9 @@ Link: [Code](https://github.com/anuragxel/salt)
 Importance: ⭐⭐⭐
 
 Link: [Code](https://github.com/kadirnar/segment-anything-video)
+
+### 3.4. Edit Anything by Segment-Anything
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/sail-sg/EditAnythin)
