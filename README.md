@@ -87,3 +87,15 @@ Link: [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 Importance: ⭐⭐
 
 Link: [Code](https://github.com/JamesQFreeman/Sam_LoRA)
+
+### 3.2. Segment Anything Labelling Tool (SALT)
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/anuragxel/salt)
+
+### 3.3. MetaSeg: Packaged version of the Segment Anything repository
+
+Importance: ⭐⭐⭐
+
+Link: [Code](https://github.com/kadirnar/segment-anything-video)
