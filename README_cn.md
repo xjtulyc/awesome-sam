@@ -1,8 +1,9 @@
 # Awesome SAM
 
-[[Chinese Version]](README_cn.md) [[About Repo Owner]](https://youchengli.com)
+[[英文版]](README.md) [[关于仓库作者]](https://youchengli.com)
 
-Segmentation task is an important research area in the field of computer vision, which aims to assign each pixel of an image to a specific semantic category. Recently, Segment Anything Model presents a new type of segmentation architecture with better performance and wide application prospects. To help researchers and practitioners better understand the Segment Anything Model, we created this GitHub repository to collect the latest results of related work and applications.
+分割任务在计算机视觉领域中是一个重要的研究领域，旨在将图像的每个像素分配到特定的语义类别中。最近，Segment Anything Model呈现出一种新的分割架构类型，具有较好的性能和广泛的应用前景。为了帮助研究人员和从业者更好地了解Segment Anything Model，我们创建了这个GitHub仓库，收集了相关工作和应用的最新成果。
+
 
 ## 1. Paper
 
