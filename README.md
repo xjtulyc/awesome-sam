@@ -4,7 +4,7 @@
 
 Segmentation task is an important research area in the field of computer vision, which aims to assign each pixel of an image to a specific semantic category. Recently, Segment Anything Model presents a new type of segmentation architecture with better performance and wide application prospects. To help researchers and practitioners better understand the Segment Anything Model, we created this GitHub repository to collect the latest results of related work and applications.
 
-- [Awesome SAM](#awesome-sam)
+- [Content of Awesome SAM](#awesome-sam)
   - [1. Paper](#1-paper)
     - [1.1. Segment Anything](#11-segment-anything)
     - [1.2. Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection](#12-can-sam-segment-anything-when-sam-meets-camouflaged-object-detection)
